@@ -1,0 +1,13 @@
+{
+  "exclude": [],
+  "excludeExternals": true,
+  "excludeNotExported": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "inputFiles": [ "./src/index.ts" ],
+  "mode": "modules",
+  "name": "Webnative Filecoin SDK",
+  "out": "docs",
+  "readme": "none",
+  "stripInternal": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webnative-filecoin",
+  "version": "0.1.0",
+  "description": "Fission Webnative Filecoin SDK",
+  "main": "index.js",
+  "repository": "https://github.com/benjaminbollen/webnative-filecoin",
+  "author": "Fission",
+  "contributors": [
+    "Benjamin Bollen <ben@mosaiclabs.eu>",
+    "James Walker <james@fission.codes>"
+  ],
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=10.21.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
